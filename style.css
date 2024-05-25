@@ -182,8 +182,8 @@
     color: white;
    }
 
-   #fix{
-    background-image: url(/image/family.jpg);
+   #fixed{
+    background-image: url(image/family.jpg);
     background-position: center;
     background-attachment: fixed;
     height: 500px;
